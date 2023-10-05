@@ -9,7 +9,7 @@ import BreakingNews from "./BreakingNews";
 
 const Home = () => {
     return (
-        <div>
+        <div className="font-poppins">
             <Header></Header>
             <BreakingNews></BreakingNews>
             <Navbar></Navbar>
