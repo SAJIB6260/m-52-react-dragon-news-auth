@@ -9,7 +9,7 @@ import qzone3 from "../../../assets/qZone3.png"
 
 const RightSIdeNav = () => {
     return (
-        <div>
+        <div className='font-poppins'>
             <div className='p-2'>
                 <h2 className="text-2xl mb-5 font-semibold text-[#403F3F]">Login With</h2>
                 <button className="text-lg border-2 border-blue-500 text-blue-700 flex justify-center text-center items-center w-full gap-2 py-2 font-semibold rounded-lg">
