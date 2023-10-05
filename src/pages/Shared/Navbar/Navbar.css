@@ -1,0 +1,6 @@
+ul a.active{
+    color: #403F3F;
+    text-decoration-line: underline;
+    text-size-adjust: 20px;
+    font-weight: 600;
+}
